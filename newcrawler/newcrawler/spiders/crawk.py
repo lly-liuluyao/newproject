@@ -1,2 +1,2 @@
 print('hello world!')
-new create code!
+print('new create code!')
